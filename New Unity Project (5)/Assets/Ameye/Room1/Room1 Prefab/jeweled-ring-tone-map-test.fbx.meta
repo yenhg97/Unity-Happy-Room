@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 64d8f73d54512416e93641d212075646
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AreaLight
+    100002: AreaLight1
+    100004: AreaLight2
+    100006: Bone
+    100008: Camera
+    100010: Diamond_Mini_06
+    100012: Diamond_Primary
+    100014: group
+    100016: Group01
+    100018: //RootNode
+    100020: Plane
+    100022: Plane_copy
+    100024: Plane_copy 1
+    100026: Plane_copy 2
+    100028: Plane_copy 3
+    100030: PointLight
+    100032: PointLight1
+    100034: PointLight2
+    100036: PointLight3
+    100038: Ring
+    100040: Sphere01
+    100042: Sphere02
+    100044: Sphere03
+    100046: Sphere04
+    100048: Sphere05
+    100050: V-Ray Area Light
+    400000: AreaLight
+    400002: AreaLight1
+    400004: AreaLight2
+    400006: Bone
+    400008: Camera
+    400010: Diamond_Mini_06
+    400012: Diamond_Primary
+    400014: group
+    400016: Group01
+    400018: //RootNode
+    400020: Plane
+    400022: Plane_copy
+    400024: Plane_copy 1
+    400026: Plane_copy 2
+    400028: Plane_copy 3
+    400030: PointLight
+    400032: PointLight1
+    400034: PointLight2
+    400036: PointLight3
+    400038: Ring
+    400040: Sphere01
+    400042: Sphere02
+    400044: Sphere03
+    400046: Sphere04
+    400048: Sphere05
+    400050: V-Ray Area Light
+    2000000: Camera
+    2100000: WallRed_Physical
+    2100002: Floor_Physical
+    2100004: WallBlue_Physical
+    2100006: Diamond_Physical
+    2100008: Gold_Physical
+    2300000: Diamond_Mini_06
+    2300002: Diamond_Primary
+    2300004: Plane
+    2300006: Plane_copy
+    2300008: Plane_copy 1
+    2300010: Plane_copy 2
+    2300012: Plane_copy 3
+    2300014: Ring
+    2300016: Sphere01
+    2300018: Sphere02
+    2300020: Sphere03
+    2300022: Sphere04
+    2300024: Sphere05
+    3300000: Diamond_Mini_06
+    3300002: Diamond_Primary
+    3300004: Plane
+    3300006: Plane_copy
+    3300008: Plane_copy 1
+    3300010: Plane_copy 2
+    3300012: Plane_copy 3
+    3300014: Ring
+    3300016: Sphere01
+    3300018: Sphere02
+    3300020: Sphere03
+    3300022: Sphere04
+    3300024: Sphere05
+    4300000: Plane_copy
+    4300002: Plane
+    4300004: Plane_copy
+    4300006: Plane_copy
+    4300008: Diamond_Primary
+    4300010: Ring
+    4300012: Sphere03
+    4300014: Sphere02
+    4300016: Sphere04
+    4300018: Diamond_Mini_06
+    4300020: Sphere01
+    4300022: Sphere05
+    4300024: Plane_copy
+    9500000: //RootNode
+    10800000: AreaLight
+    10800002: AreaLight1
+    10800004: AreaLight2
+    10800006: PointLight
+    10800008: PointLight1
+    10800010: PointLight2
+    10800012: PointLight3
+    10800014: V-Ray Area Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
